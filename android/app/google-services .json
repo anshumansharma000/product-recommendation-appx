@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366416292592",
+    "project_id": "productrecommendationapp-c595d",
+    "storage_bucket": "productrecommendationapp-c595d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366416292592:android:f99cbe38b6d532e632b035",
+        "android_client_info": {
+          "package_name": "co.prettygooddev.product_recommendation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366416292592-ibrc43bgg792jok2tmgqd8rtqbrq0f1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjF1BsmEmrG4whbPJUr5xO1iC9u1wbLSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366416292592-ibrc43bgg792jok2tmgqd8rtqbrq0f1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
